@@ -22,7 +22,7 @@ public class Task003 {
         long l = 2388889992221318798L;
 
         float f = 335455325.89F;
-        double d = 98746584561326654645D;
+        double d = 987465845613254645D;
 
         System.out.println(d);
         System.out.println(s);
