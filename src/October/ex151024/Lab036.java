@@ -1,6 +1,6 @@
 package October.ex151024;
 
-public class Lab005 {
+public class Lab036 {
     public static void main(String[] args) {
         int max=10;
         int min=5;
