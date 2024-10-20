@@ -1,0 +1,2 @@
+# MJC_Practice_CoreJava001
+MJC_Practice_CoreJava001
