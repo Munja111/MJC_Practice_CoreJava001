@@ -10,6 +10,7 @@ public class Lab056 {
         System.out.println(++a);
         System.out.println(++a);
         System.out.println(++a);
+        System.out.println(++a);
 
 
     }
