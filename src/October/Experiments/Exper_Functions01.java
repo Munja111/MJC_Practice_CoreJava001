@@ -2,13 +2,13 @@ package October.Experiments;
 
 public class Exper_Functions01 {
         public static void main(String[] args) {
-            // Call the method that does not return anything and takes no parameters
+            // does not return anything and takes no parameters
             saySomethingPlease();
 
-            // Call the method that does not return anything but takes a parameter
+            // does not return anything but takes a parameter
             sayHelloToYou("AI Engineer");
 
-            // Call the method that returns an integer and does not take any parameters
+            // returns an integer and takes parameters
             int result = sumOfTwoGood(3, 4);
 
             // Print the result returned by sumOfTwoGood
@@ -24,8 +24,8 @@ public class Exper_Functions01 {
         }
 
         // Method that does not return anything and takes a String parameter
-        static void sayHelloToYou(String name) {
-            System.out.println("Hello, " + name);
+        static void sayHelloToYou(String job) {
+            System.out.println("Hello, " + job);
         }
 
         // Method that returns the sum of two integers and takes parameters
