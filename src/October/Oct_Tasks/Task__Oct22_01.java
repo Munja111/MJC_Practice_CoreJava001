@@ -33,11 +33,9 @@ public class Task__Oct22_01 {
         for (int i = numberString.length() - 1; i >= 0; i--) {
             reversedString += numberString.charAt(i);
         }
-
         // reverse  string --> integer
         int reversedNumber = Integer.parseInt(reversedString); //Wrapper class
-        System.out.println("Reversed Number: " + reversedNumber);
-
+        System.out.println("Reversed Number is: " + reversedNumber);
         scanner.close();
     }
 }
