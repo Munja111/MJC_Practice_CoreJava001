@@ -29,7 +29,7 @@ public class Task004 {
         System.out.printf("Your age is %d",age);
         System.out.println();
 
-        String name  = "pramod";
+        String name  = "mjc";
         System.out.printf("Hi, Your name is %s",name);
 
         System.out.println();
